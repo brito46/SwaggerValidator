@@ -7,5 +7,5 @@ I hosted my webpage using github pages because local and non http/https urls are
 
 I validated my OpenAPI/Swagger specification against the Swagger/OpenAPI 2.0 Schema and OpenAPI 3.0 Schema as follows:
 
-inline '<img src="http://validator.swagger.io/validator?url={Your_URL_Goes_Here}">'
+ 'img src="http://validator.swagger.io/validator?url={Your_URL_Goes_Here}"'
 
